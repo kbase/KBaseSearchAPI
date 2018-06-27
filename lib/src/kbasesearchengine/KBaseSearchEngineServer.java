@@ -62,9 +62,9 @@ import kbasesearchengine.common.FileUtil;
  */
 public class KBaseSearchEngineServer extends JsonServerServlet {
     private static final long serialVersionUID = 1L;
-    private static final String version = "";
-    private static final String gitUrl = "";
-    private static final String gitCommitHash = "";
+    private static final String version = "0.0.1";
+    private static final String gitUrl = "https://github.com/kbase/KBaseSearchEngine.git";
+    private static final String gitCommitHash = "2b81f8c7645d2de82ee899caa6787f4a18a7bf8f";
 
     //BEGIN_CLASS_HEADER
     
